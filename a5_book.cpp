@@ -1,4 +1,5 @@
 #include "a5_book.hpp"
+#include <iostream>
 using namespace std;
 
 // book constructor implementations
