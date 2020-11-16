@@ -1,4 +1,3 @@
-#include <iostream>
 #include "a5_book.hpp"
 using namespace std;
 
